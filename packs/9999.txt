@@ -1,0 +1,9 @@
+name=Example pack
+author=No Hard Feelings
+mature=0
+---
+Who would name their houseplants and apologise to them?
+Who would win an argument with a customer service bot?
+Who would get lost using a map of their own street?
+Who would start a group chat and then mute it?
+Who would bring snacks to a fight?

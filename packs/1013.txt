@@ -1,0 +1,10 @@
+name=Parappa The Rapper
+author=ParappaDaRapper
+mature=0
+---
+Parappa The Rapper
+Sunny Funny
+PJ Berri (PJ DJ)
+Katy Kat (Bassist of Milkcan)
+Lammy (Guitarist of Milkcan)
+Ma-San (Drummer of Milkcan)

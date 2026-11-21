@@ -1,0 +1,9 @@
+name=Everyday Choices
+author=ZyTheFoxxy
+mature=1
+---
+Who would you choose to be your partner in a midnight snack raid?
+Who would you ask for help if you suddenly found yourself in a time‑traveling adventure?
+Who would you invite to a silent dinner party where no one speaks?
+Who would you trust to keep a secret that could change the world?
+Who would you pick as your ally in a game of hide‑and‑seek on a deserted island?

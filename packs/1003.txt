@@ -1,0 +1,9 @@
+name=Team Building & Leading
+author=ZyTheFoxxy
+mature=0
+---
+Who would you choose as the mediator in a heated office debate?
+Who would you ask to lead a brainstorming session for a new product?
+Who would you assign to mentor a new employee in your company?
+Who would you pick to represent your team at a corporate retreat?
+Who would you involve in designing a company’s new logo?
